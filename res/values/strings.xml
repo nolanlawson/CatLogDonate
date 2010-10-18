@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">CatLog Donate</string>
+    <string name="install_free_text">\
+CatLog Donate is simply an add-on to the free CatLog, \
+meaning you\'ll still need to install that version in order for it to work. \
+Thanks for donating! :)</string>
+    <string name="thanks">\
+While installed, CatLog Donate simply serves as proof you donated, and adds \
+in a nice little message to the "About" section. \
+This icon will remove itself from your application \
+tray the next time you reboot. Thanks for donating - you are awesome! :)</string>
+</resources>
